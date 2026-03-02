@@ -1,0 +1,43 @@
+[33mcommit 3de2cce5d96f974ca05045f40956726a571d2436[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: ClavinK <ckama222@gmail.com>
+Date:   Sat Feb 28 16:37:44 2026 -0800
+
+    G: Added a title
+
+[33mcommit 9887019f7a2c10da4f4ef5431c115a8d64e0a7d8[m
+Merge: df2acbe 21afa4a
+Author: ClavinK <ckama222@gmail.com>
+Date:   Sat Feb 28 16:24:51 2026 -0800
+
+    Merge branch 'add_classics'
+    F: Merge branch 'add_classics'
+
+[33mcommit df2acbe2b5a2b8d3c24013e793b1025d29722656[m
+Author: ClavinK <ckama222@gmail.com>
+Date:   Fri Feb 27 17:50:16 2026 -0800
+
+    E: edited contents.md
+
+[33mcommit 21afa4aa4b2d262f4369fa2f7dc70c7e68990395[m
+Author: ClavinK <ckama222@gmail.com>
+Date:   Sun Feb 22 14:46:42 2026 -0800
+
+    D: Added classics.csv
+
+[33mcommit 3bdd56926acc03cd9b56a5072aebfc79c48332f1[m
+Author: ClavinK <ckama222@gmail.com>
+Date:   Thu Feb 19 19:55:25 2026 -0800
+
+    C: add quotes
+
+[33mcommit 39dc045469e03dbb6ba0a410816f64eeb897f000[m
+Author: ClavinK <ckama222@gmail.com>
+Date:   Thu Feb 19 19:10:58 2026 -0800
+
+    B: a title
+
+[33mcommit 05584f91645c894aa4d77692be09809f04b5bbca[m
+Author: ClavinK <ckama222@gmail.com>
+Date:   Mon Feb 16 16:56:51 2026 -0800
+
+    A: add contents.md
